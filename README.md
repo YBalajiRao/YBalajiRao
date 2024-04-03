@@ -47,23 +47,42 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ybalajirao&show_icons=true&locale=en&layout=compact" alt="ybalajirao" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ybalajirao&show_icons=true&locale=en" alt="ybalajirao" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- <title>Neon Stats Cards</title> -->
+  <!-- <style>
+    @keyframes neon-white-red-green {
+      0% {
+        filter: brightness(150%) hue-rotate(0deg);
+      }
+      25% {
+        filter: brightness(150%) hue-rotate(90deg);
+      }
+      50% {
+        filter: brightness(150%) hue-rotate(180deg);
+      }
+      75% {
+        filter: brightness(150%) hue-rotate(270deg);
+      }
+      100% {
+        filter: brightness(150%) hue-rotate(360deg);
+      }
+    }
+  </style> -->
+</head>
+<body>
+  <p align="center" style="position: relative;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ybalajirao&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="position: absolute; animation: neon-white-red-green 1s infinite alternate;" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybalajirao&" alt="y
+  <p align="center" style="position: relative;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ybalajirao&show_icons=true&locale=en&theme=radical" alt="Overall Stats" style="position: absolute; animation: neon-white-red-green 1s infinite alternate;" />
+  </p>
 
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybalajirao&theme=dark&background=0D1117&stroke=00FF00&ring=25C2A0&fire=25C2A0&currStreakLabel=25C2A0&sideNums=25C2A0&currStreakNum=25C2A0&border=25C2A0&currStreakLabel=25C2A0" alt="ybalajirao" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YBalajiRao&theme=youtube-dark)](https://git.io/streak-stats)
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YBalajiRao&theme=youtube-dark" alt="GitHub Streak" /></a>
-
+  <p align="center" style="position: relative;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybalajirao&theme=radical&background=0D1117&stroke=00FF00&ring=FF00FF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&border=FF0000&currStreakLabel=FFFFFF" alt="Streak Stats" style="position: absolute; animation: neon-white-red-green 1s infinite alternate;" />
+  </p>
+</body>
+</html>
