@@ -57,3 +57,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybalajirao&" alt="y
+
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybalajirao&theme=dark&background=0D1117&stroke=00FF00&ring=25C2A0&fire=25C2A0&currStreakLabel=25C2A0&sideNums=25C2A0&currStreakNum=25C2A0&border=25C2A0&currStreakLabel=25C2A0" alt="ybalajirao" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YBalajiRao&theme=youtube-dark)](https://git.io/streak-stats)
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YBalajiRao&theme=youtube-dark" alt="GitHub Streak" /></a>
+
