@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yadhav Balaji Rao</h1>
-<h3 align="center">Assistant Professor (Former) | MCA Gold Medalist | Deep Learning Enthusiast</h3>
+<h3 align="center">Assistant Professor (Former) | Gold Medalist | Deep Learning Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 - 📚 Former Assistant Professor at **Mohan Babu University**, Tirupati  
-- 🎓 MCA with 8.98 CGPA from **MBU, Tirupati**  
+- 🎓 MCA Gold Medalist with 8.98 CGPA from **MBU, Tirupati**  
 - 🤖 Interested in **Deep Learning**, **AI Applications**, and **Data Science**  
-- 📌 Currently pursuing PhD (area: AI & Computer Vision)
+- 📌 Currently pursuing PhD (area: ML,DL,Computer Vision)
 
 - 💡 Ask me about:  
   &nbsp;&nbsp;&nbsp;&nbsp;🔹 Python, Java, SQL  
@@ -86,10 +86,10 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/yadhav-balaji-rao" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/></a>
+<a href="https://www.linkedin.com/in/yadhavbalajirao" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/></a>
 <a href="https://facebook.com/ybalajirao" target="blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="40" width="40"/></a>
 <a href="https://instagram.com/balajirao.143" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/></a>
-<a href="https://www.hackerrank.com/ybalajirao30" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="Hackerrank" height="40" width="40"/></a>
+<a href="https://www.hackerrank.com/profile/ybalajirao30" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="Hackerrank" height="40" width="40"/></a>
 </p>
 
 ---
