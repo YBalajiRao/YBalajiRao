@@ -6,7 +6,7 @@
 - 📚 Former Assistant Professor at **Mohan Babu University**, Tirupati  
 - 🎓 MCA Gold Medalist with 8.98 CGPA from **MBU, Tirupati**  
 - 🤖 Interested in **Deep Learning**, **AI Applications**, and **Data Science**  
-- 📌 Currently pursuing PhD (area: ML,DL,Computer Vision)
+
 
 - 💡 Ask me about:  
   &nbsp;&nbsp;&nbsp;&nbsp;🔹 Python, Java, SQL  
