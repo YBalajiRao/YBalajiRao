@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 - 📚 Former Assistant Professor at **Mohan Babu University**, Tirupati  
-- 🎓 MCA Gold Medalist with 8.98 CGPA **  
+- 🎓 MCA Gold Medalist with 8.98 CGPA 
 - 🤖 Interested in **Deep Learning**, **AI Applications**, and **Data Science**  
 
 
@@ -14,7 +14,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;🔹 Academic Research, Writing & Presentations  
 
 - 📫 Email: **ybalajirao30@gmail.com**  
-- 📝 [My Resume](https://drive.google.com/file/d/1ArN8oxC3mek2Pu2aS2IceVgzHFDvyTG1/view?usp=sharing)  
 - 🏅 Fun Fact: **I love transforming research into real-world impact.**
 
 ---
