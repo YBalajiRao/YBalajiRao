@@ -91,27 +91,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ybalajirao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalajirao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybalajirao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C7FF&ring=00C7FF&fire=FF6B6B&currStreakLabel=00C7FF" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ybalajirao&theme=algolia&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</p>
-
----
-
 ## 👨‍🏫 Work Experience
 
 <table>
@@ -158,7 +137,7 @@
 - 🔹 Employed **GANs** for data augmentation  
 - 🔹 Used **Capsule Networks (CapsNet)** for feature extraction  
 - 🔹 Dynamic preprocessing with **normalization** techniques
-- 🔹 Utilized **super-resolution** techniques to enhance image quality for better detection accuracy
+- 🔹 Utilized **super-resolution** techniques to enhance image quality
 
 </td>
 <td width="50%" valign="top">
@@ -320,12 +299,6 @@
 ## 📈 Contribution Graph
 
 [![Yadhav Balaji Rao's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ybalajirao&bg_color=0D1117&color=00C7FF&line=00C7FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
 
 ---
 
