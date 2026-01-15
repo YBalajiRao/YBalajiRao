@@ -20,6 +20,7 @@
 - 🎓 **MCA Gold Medalist** with **8.98 CGPA**  
 - 🤖 Passionate about **Deep Learning**, **Machine Learning** & **AI**  
 - 📊 Skilled in **Data Science** & **Data Analytics**  
+- 💻 Full-Stack Developer with **React** & **Django**
 - 🔬 Published Researcher & Conference Speaker  
 - 📫 Reach me at: **ybalajirao30@gmail.com**  
 - 🏅 Fun Fact: *I love transforming research into real-world impact!*
@@ -32,6 +33,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-01D277?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -46,7 +49,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,tensorflow,vscode&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,java,react,django,html,css,js,mysql,postgres,git,github,tensorflow,vscode,vercel&theme=dark" alt="Tech Stack"/>
 </p>
 
 ### 📋 Detailed Skills Summary
@@ -57,12 +60,14 @@
 
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### 📚 Libraries & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
@@ -80,10 +85,12 @@
 
 #### 🛠️ Tools & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 </td>
 </tr>
@@ -120,6 +127,79 @@
 ---
 
 ## 📌 Featured Projects
+
+### 🎯 HabitFlow - Anti-Fragile Habit Tracking System
+
+<p align="center">
+  <a href="https://habitflow-frontend.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-00C7FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/YBalajiRao/habitflow-frontend" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/YBalajiRao/habitflow-backend" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**A Full-Stack, Offline-First Habit Tracking Web Application**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+#### ✨ Key Features:
+- 🔐 **User Authentication** with JWT tokens (Login/Signup)
+- 📊 **Incremental Habit Tracking** with progress bars
+- 🛡️ **Anti-Fragile Streak System** with grace credits
+- 🎮 **Gamification** - XP points, Levels, Achievements
+- 📅 **Calendar-Based Visualization** of daily progress
+- 🌙 **Professional Dark Theme** (2026 Design Trends)
+- 🧠 **Rule-Based Coaching** with smart tips
+- 📈 **Insights Dashboard** with charts & analytics
+- 🔒 **Privacy-First** - Data stored securely in cloud
+
+#### 🏗️ Architecture:
+- **Frontend:** React 18, Vite, Chart.js, Axios
+- **Backend:** Django REST Framework, JWT Auth
+- **Database:** PostgreSQL (Cloud-hosted)
+- **Deployment:** Vercel (Frontend) + Render (Backend)
+
+</td>
+<td width="40%" valign="top">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+</p>
+
+#### 🎯 Problem Solved:
+Most habit trackers use **binary completion** and **rigid streaks**, causing burnout when users miss a single day. HabitFlow introduces an **anti-fragile** approach where streaks don't reset to zero—they decay gradually, and **grace credits** protect your progress.
+
+#### 🏆 Achievements:
+- ✅ Full-stack development from scratch
+- ✅ RESTful API design
+- ✅ Cloud deployment
+- ✅ Responsive UI/UX
+- ✅ Secure authentication
+
+<p align="center">
+  <a href="https://habitflow-frontend.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Try_It_Now-▶️-00C7FF?style=for-the-badge"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
 
 <table>
 <tr>
